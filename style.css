@@ -1,0 +1,129 @@
+/* Shimmer */
+
+.loading{
+    display: flex;
+    font-size: large;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-card{    
+    margin: 15px 5px 0px 20px;    
+    height: 320px;
+    width: 200px;
+    border-radius: 7px;
+    background-color: #f0f0f0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.shimmerHeading{
+    margin-top: 85%;
+    margin-left: 15px;
+    background-color: #d0cccc;
+    width: 130px;
+    height: 30px;
+}
+.shimmerH3{
+    margin-top: 20px;
+    margin-left: 15px;
+    background-color: #d0cccc;
+    width: 90px;
+    height: 30px;
+
+}
+
+/* simmerRestoMenu */
+
+.shimmerMenucontainer{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+
+}
+.shimmerestoMenu-card{
+    background-color: #f0f0f0;;
+    display: flex;
+    margin: 20px 5px 0px 400px;   
+    height: 250px;
+    width: 50%;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.shimmerIMG{
+    margin: 10px 5px 0px 20px; 
+    padding: 1px;
+    height: 200px;
+    width: 200px;
+    background-color: #d0cccc;
+
+}
+.shimmerMenuHeading{    
+    margin-top: 10px;
+    margin-left: 15px;
+    background-color: #d0cccc;
+    width: 400px;
+    height: 30px;
+
+}
+.shimmerMenuH3{
+    margin-top: 20px;
+    margin-left: 15px;
+    background-color: #d0cccc;
+    width: 200px;
+    height: 30px;
+
+}
+.shimmerMenupara{
+    margin-top: 20px;
+    margin-left: 15px;
+    background-color: #d0cccc;
+    width: 100px;
+    height: 30px;
+
+}
+
+/* contact */
+
+.contact{
+    display: flex;
+    margin: 50px 0px 10px 250px;
+}
+.contact-heading{
+    margin: 0px 0px 10px 150px;
+}
+.contact-card{
+    padding: 10px;
+    border: 1px solid #ebf1fd   ;
+    height: 500px;
+    width: 500px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(247, 167, 37, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.contact-img{
+    height: 540px;
+    width: 500px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.contact-form input, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  .submit-btn{
+    background-color: #04AA6D;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+  }
+
