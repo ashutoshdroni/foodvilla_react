@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Redux Toolkit
 - Install @reduxjs/toolkit and react-redux
 - Build our store
@@ -31,3 +32,6 @@
 - Install - npm i -D @testing-library/jest-dom
 
 
+=======
+# foodvilla_react_
+>>>>>>> aaac8edda7fea253921c73f7d28675600efd15e5
