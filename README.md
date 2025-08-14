@@ -1,7 +1,5 @@
 # foodvilla_react
 
-
-
 React
 Parcel
 Dec build
